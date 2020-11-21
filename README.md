@@ -1,3 +1,7 @@
+Check out the blog post at [blog.bhanuteja.dev](https://blog.bhanuteja.dev/nextjs-starter-with-authentication-react-17-typescript-tailwind-css-2-eslint) to deploy this on Vercel.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
